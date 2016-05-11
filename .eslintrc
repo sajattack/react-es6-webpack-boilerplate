@@ -36,6 +36,7 @@
     "strict": [2, "global"]
   },
   "plugins": [
-    "react"
+    "react",
+    "json"
   ]
 }
