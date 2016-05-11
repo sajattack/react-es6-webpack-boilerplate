@@ -38,5 +38,9 @@
   "plugins": [
     "react",
     "json"
+  ],
+  "extends": [
+    "standard",
+    "standard-react"
   ]
 }
